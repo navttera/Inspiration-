@@ -1,2 +1,11 @@
 .tieude {
-  color: strawberry
+  color: strawberry;
+  font-weight: bold;
+  font-size: 25pt;
+}
+.noidung {
+  color: black;
+  font-weight: normal;
+  font-size:15pt;
+}
+
