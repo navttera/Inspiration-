@@ -8,9 +8,23 @@
   font-weight: normal;
   font-size:12pt;
 }
-.su {
-  color: brown;
-  font-weight: normal;
-  font-size: 13pt;
+.career-title {
+  text-align: center;
+  color: #ff7aa2;
+  font-size: 24px;
+  border-bottom: 3px dashed #ffb6c1;
+  padding-bottom: 6px;
+}
+
+.career-text {
+  font-size: 16.5px;
+  color: #444;
+  line-height: 1.9;
+  text-align: justify;
+}
+
+span {
+  color: #ff6f91;
+  font-weight: bold;
 }
 
