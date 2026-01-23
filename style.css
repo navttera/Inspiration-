@@ -11,15 +11,17 @@
 .career-title {
   text-align: center;
   color: #ff7aa2;
-  font-size: 24px;
+  font-size: 26px;
   border-bottom: 3px dashed #ffb6c1;
   padding-bottom: 6px;
 }
 
 .career-text {
-  font-size: 16.5px;
-  color: #444;
+  font-size: 17px;
   line-height: 1.9;
+  color: #444;
+  max-width: 800px;
+  margin: 15px auto;
   text-align: justify;
 }
 
@@ -27,4 +29,3 @@ span {
   color: #ff6f91;
   font-weight: bold;
 }
-
