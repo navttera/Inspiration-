@@ -11,15 +11,23 @@
     }
 
     h2 {
-      text-align: center;
-      color: #ff7aa2;
-      font-size: 26px;
-      border-bottom: 3px dashed #ffb6c1;
-      padding-bottom: 6px;
-      width: fit-content;
-      margin: 30px auto;
-    }
+  text-align: center;
+  color: #ff7aa2;
+  font-size: 26px;
+  border-bottom: 3px dashed #ffb6c1;
+  padding-bottom: 6px;
+  width: fit-content;
+  margin: 30px auto;
+  text-transform: uppercase;
+}
 
+h2::before {
+  content: "🌸 ";
+}
+
+h2::after {
+  content: " 🌸";
+}
     p {
       font-size: 17px;
       line-height: 1.9;
