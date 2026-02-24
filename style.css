@@ -13,7 +13,15 @@
     flex: 5%;
     background-color: darkgray;
 }
-
+.menu a{
+    padding:15px 20px;
+    color: white
+}
+.menu hover{
+    background-color: black;
+    color: pink;
+}
+    
 .content{
     flex: 70%;
     background-color: aquamarine;
