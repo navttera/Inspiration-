@@ -3,17 +3,17 @@
 
 .header{
     flex : 15%;
-    background-color: lightblue
+    background-color: lightblue;
 }
 
 .menu{
     flex: 5%;
-    background-color: darkgray
+    background-color: darkgray;
 }
 
 .content{
     flex: 70%;
-    background-color: aquamarine
+    background-color: aquamarine;
 }
 .content iframe{
     flex: 1;
