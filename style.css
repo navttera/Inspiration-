@@ -1,3 +1,20 @@
+.conterner{
+}
+
+.header{
+    flex : 15%;
+    background-color: lightblue
+}
+
+.menu{
+    flex: 5%;
+    background-color: darkgray
+}
+
+.content{
+    flex: 70%;
+    background-color: aquamarine
+}
 .tieude {
   color: green;
   font-weight: bold;
